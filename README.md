@@ -1,6 +1,6 @@
 # msc-zoom
 
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/msc-lens) [![DeepScan grade](https://deepscan.io/api/teams/16372/projects/20129/branches/539057/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=16372&pid=20129&bid=539057)
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/msc-zoom) [![DeepScan grade](https://deepscan.io/api/teams/16372/projects/22012/branches/644916/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=16372&pid=22012&bid=644916)
 
 &ly;msc-zoom /> is a web component which provide zoom-in / zoom-out effects for image closing watch. Users could just tap the part they like to have a closing watch.
 
@@ -8,7 +8,7 @@
 
 ## Basic Usage
 
-&lt;msc-zoom /> is a web component. All we need to do is put the required script into your HTML document. Then follow <msc-zoom />'s html structure and everything will be all set.
+&lt;msc-zoom /> is a web component. All we need to do is put the required script into your HTML document. Then follow &lt;msc-zoom />'s html structure and everything will be all set.
 
 - Required Script
 
