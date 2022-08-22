@@ -1,0 +1,26 @@
+{
+  "name": "msc-zoom",
+  "version": "1.0.0",
+  "description": "<msc-zoom /> is a web component. All we need to do is put the required script into your HTML document. Then follow <msc-zoom />'s html structure and everything will be all set.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meistudioli/msc-zoom.git"
+  },
+  "keywords": [
+    "web",
+    "front-end",
+    "web component",
+    "image",
+    "zoom"
+  ],
+  "author": "Paul Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meistudioli/msc-zoom/issues"
+  },
+  "homepage": "https://github.com/meistudioli/msc-zoom#readme"
+}
