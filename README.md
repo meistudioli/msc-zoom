@@ -2,7 +2,7 @@
 
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/msc-zoom) [![DeepScan grade](https://deepscan.io/api/teams/16372/projects/22012/branches/644916/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=16372&pid=22012&bid=644916)
 
-&ly;msc-zoom /> is a web component which provide zoom-in / zoom-out effects for image closing watch. Users could just tap the part they like to have a closing watch.
+&lt;msc-zoom /> is a web component which provide zoom-in / zoom-out effects for image closing watch. Users could just tap the part they like to have a closing watch.
 
 ![<msc-zoom />](https://blog.lalacube.com/mei/img/preview/msc-zoom.png)
 
